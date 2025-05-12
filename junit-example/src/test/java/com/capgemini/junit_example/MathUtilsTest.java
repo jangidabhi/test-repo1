@@ -29,7 +29,7 @@ public class MathUtilsTest {
 			assertTrue(mathUtils.isEven(4));
 			assertTrue(mathUtils.isEven(6));
 			assertTrue(mathUtils.isEven(8));
-			
+			assertTrue(mathUtils.isEven(10));
 			
 		}
 
